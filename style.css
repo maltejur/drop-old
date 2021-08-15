@@ -1,0 +1,9 @@
+#dropzone{
+    text-align: center;
+    padding-top: 20px;
+    transition: border .5s ease;
+}
+
+#dropzone.hover{
+    border: solid 2px green;
+}
